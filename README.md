@@ -43,11 +43,17 @@ Error 404 will get the coding Geek in you to develop innovative solutions to com
 ## Timeline :
 
 Opening Ceremony - Aug 19th, 2022 - 5.30PM
+
 Hackathon Period Begins - Aug 19th, 2022 - 7.00PM
+
 Initial Evaluation Deadline - Aug 21st, 2022 - 9.00AM
+
 Hackathon Submission Period Ends - Aug 22nd, 2022 - 7.00PM
+
 Top 20 Teams will be Released - Aug 24th, 2022 - 4.00PM
+
 Demonstration of Projects to Judges - Aug 25th, 2022 - 8.00PM
+
 Results declared on Closing Ceremony - Aug 27th, 2022 - 7PM
 
 
@@ -76,20 +82,30 @@ Results declared on Closing Ceremony - Aug 27th, 2022 - 7PM
 ### Participants :
 
 Winner: INR 7,500 cash prize
+
 2nd Place: INR 5,000 cash prize
+
 3rd Place: INR 3,000 cash prize
+
 Independent Prize Categories: Awarded with Swags
+
 Appreciation Certificates to all the Winner Participants
+
 Participation Certificates to all the participants who had submitted their projects
+
 An exclusive hiring opportunity for participants to be considered for the interview process irrespective of being winners or not based on their skills and expertise
+
 Additional exciting perks & benefits from sponsors
 
 
 ## Mentors :
 
 Appreciation Certificates to the Top 2 Mentors
+
 Participation Certificates to all the mentors who had impacted our participants with their time and efforts
+
 An exclusive hiring opportunity to mentors irrespective of being best or not based on their skills
+
 Additional exciting perks & benefits from sponsors
 
 
