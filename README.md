@@ -26,7 +26,7 @@ Mentor Registration : https://unstop.com/hackathon/error404-hackathon-mentor-reg
 
 ## Eligibility Criteria : 
 
-This hackathon brings an opportunity to high-school students, college students, students graduated, working professionals (upto 2 years of experience) and people who don't have formal education are also welcomed.
+This hackathon brings an opportunity to college students, students graduated, working professionals (upto 3 years of experience) and people who don't have formal education are also welcomed.
 
 All it matters is your skills and there is no other limitations. Don't miss on to this opportunity.
 
